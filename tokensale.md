@@ -1,10 +1,8 @@
 ---
 permalink: /tokensale
-layout: documentation
-section-type: documentation
-title: Dragonchain - Token Sale
+redirect_to: https://dragonchain.com/tokensale
+layout: redirected
 sitemap: false
-priority: 1.0
 ---
 
 Token sale information is available at: https://dragonchain.com/tokensale
